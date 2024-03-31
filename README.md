@@ -8,6 +8,12 @@ removed automatically by vite when you do `npm run build` for production. That
 means you can develop the UI in your browser, mocking FM scripts and then, when
 ready, build for production and test in your fm app.
 
+## Install deps
+
+```bash
+npm install
+```
+
 ## DEV in browser
 
 ```bash
