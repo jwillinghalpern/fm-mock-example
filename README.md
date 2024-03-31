@@ -10,10 +10,14 @@ ready, build for production and test in your fm app.
 
 ## DEV in browser
 
-`npm run dev`
+```bash
+npm run dev
+```
 
 ## Build single html file for production
 
-`npm run build`
+```bash
+npm run build
+```
 
 then check the 'dist' folder for the single html file.
