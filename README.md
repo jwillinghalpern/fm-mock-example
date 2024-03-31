@@ -1,4 +1,4 @@
-# fm-gofer-example
+# fm-mock-example
 
 This example shows how to use fm-mock and fm-gofer together to develop fm
 webviewer widgets in a browser.
